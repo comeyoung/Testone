@@ -5,6 +5,8 @@ public class test {
 		System.out.println("你好");
 		System.out.println("ndihdda");
 		System.out.println("sdsadasd");
+		System.out.println("你觉得怎么样？");
+		
 	}
 
 }
